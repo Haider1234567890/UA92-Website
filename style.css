@@ -1,0 +1,14 @@
+body {
+    font-family: "Lato", sans-serif
+}
+.mySlides {
+    display: none
+}
+
+h1{
+    color:black;margin-left:20px;font-size:25px;font-style:italic;
+}
+
+h5{
+    color:black;
+}
